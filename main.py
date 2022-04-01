@@ -2,7 +2,7 @@ import yagmail
 import os
 import time
 
-sender = 'sheikh212@gmail.com'
+sender = 's******2@gmail.com'
 receiver = '35bw29dv@minimail.gq'
   
 subject = "This is the subject"
